@@ -1,5 +1,13 @@
+# 概要
+
+## TODO
+- tailwindcssの軽量化
+- QOL検索機能
 
 
+## startproject
+
+### tailwindcss
 ```
 % npm init -y && npm install tailwindcss autop
 refixer clean-css-cli && npx tailwindcss init -p
